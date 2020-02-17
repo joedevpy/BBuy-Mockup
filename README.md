@@ -1,7 +1,7 @@
 # BBuy-Mockup
 
 
-this is a simple idea of BBUY Market...
+This is a simple idea of BBUY Market...
 
 
 
